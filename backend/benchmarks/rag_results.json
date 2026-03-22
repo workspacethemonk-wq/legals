@@ -1,0 +1,731 @@
+[
+    {
+        "model": "llama3.2",
+        "query": "What are the specific grounds for reasonable restrictions on the Right to Freedom of Speech under Article 19(2)?",
+        "ttft": 0.895,
+        "tps": 44.26,
+        "total_latency": 2.137,
+        "tokens": 55,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only ment..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "Explain the 'Procedure Established by Law' vs. 'Due Process of Law' as interpreted by the Supreme Court of India.",
+        "ttft": 0.784,
+        "tps": 44.26,
+        "total_latency": 2.298,
+        "tokens": 67,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only disc..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "List the five types of writs that can be issued by the Supreme Court under Article 32.",
+        "ttft": 0.898,
+        "tps": 43.86,
+        "total_latency": 2.152,
+        "tokens": 55,
+        "response_preview": "I do not have enough information in the provided context to answer this query.\n\nThe context only men..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "What is the significance of the 42nd Amendment in relation to the Preamble?",
+        "ttft": 0.605,
+        "tps": 44.88,
+        "total_latency": 1.586,
+        "tokens": 44,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only ment..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "Define 'State' as per Article 12 of the Indian Constitution.",
+        "ttft": 0.957,
+        "tps": 44.63,
+        "total_latency": 1.831,
+        "tokens": 39,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only ment..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "What does Article 44 say regarding the Uniform Civil Code?",
+        "ttft": 0.257,
+        "tps": 45.12,
+        "total_latency": 1.587,
+        "tokens": 60,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only ment..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "Explain the Doctrine of Basic Structure established in the Kesavananda Bharati case.",
+        "ttft": 0.202,
+        "tps": 44.07,
+        "total_latency": 4.876,
+        "tokens": 206,
+        "response_preview": "The Doctrine of Basic Structure was established in the landmark case of Kesavananda Bharati v. State..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "Under what Article can the President of India declare a Financial Emergency?",
+        "ttft": 0.437,
+        "tps": 44.67,
+        "total_latency": 1.422,
+        "tokens": 44,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only disc..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "What is the composition of the Finance Commission under Article 280?",
+        "ttft": 0.321,
+        "tps": 44.88,
+        "total_latency": 1.412,
+        "tokens": 49,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only ment..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "Explain the difference between Article 352 and Article 356.",
+        "ttft": 0.222,
+        "tps": 45.21,
+        "total_latency": 1.062,
+        "tokens": 38,
+        "response_preview": "I do not have enough information in the provided context to answer this query.\n\nThe context only men..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "A citizen is denied access to a public well based on their caste. Which Fundamental Right is violated?",
+        "ttft": 0.723,
+        "tps": 44.29,
+        "total_latency": 2.123,
+        "tokens": 62,
+        "response_preview": "Based on the provided context, the Fundamental Right that is violated in this scenario is Article 17..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "A person is arrested and not produced before a magistrate within 24 hours. Analyze the legality under Article 22.",
+        "ttft": 0.732,
+        "tps": 44.76,
+        "total_latency": 1.916,
+        "tokens": 53,
+        "response_preview": "I do not have enough information in the provided context to answer this query regarding Article 22. ..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "If a state law conflicts with a central law on a subject in the Concurrent List, which one prevails?",
+        "ttft": 0.551,
+        "tps": 43.42,
+        "total_latency": 2.785,
+        "tokens": 97,
+        "response_preview": "According to Article 351(2) of the Indian Constitution, if a law made by the Legislature of a State ..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "A student is forced to attend religious instruction in a government-aided school. Is this a violation of Article 28?",
+        "ttft": 0.778,
+        "tps": 43.78,
+        "total_latency": 1.92,
+        "tokens": 50,
+        "response_preview": "I do not have enough information in the provided context to answer this query.\n\nThe context only dis..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "A journalist is arrested for criticizing a local politician's policy. Does this violate Article 19(1)(a)?",
+        "ttft": 0.859,
+        "tps": 44.29,
+        "total_latency": 1.942,
+        "tokens": 48,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only disc..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "An employee is fired from a government job without a fair hearing. Evaluate this against Article 311.",
+        "ttft": 0.663,
+        "tps": 44.76,
+        "total_latency": 1.691,
+        "tokens": 46,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only disc..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "Can the Governor of a state pardon a death sentence? Compare with the President's powers.",
+        "ttft": 0.606,
+        "tps": 44.82,
+        "total_latency": 1.587,
+        "tokens": 44,
+        "response_preview": "I do not have enough information in the provided context to answer this query.\n\nThe context only dis..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "A person's property is taken by the government without compensation. Analyze this under Article 300A.",
+        "ttft": 0.623,
+        "tps": 44.54,
+        "total_latency": 1.858,
+        "tokens": 55,
+        "response_preview": "I do not have enough information in the provided context to answer this query regarding Article 300A..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "A minority community wants to establish an educational institution. Which Article protects this right?",
+        "ttft": 0.494,
+        "tps": 45.09,
+        "total_latency": 1.781,
+        "tokens": 58,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only disc..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "Is the 'Right to Privacy' a fundamental right? Cite the relevant article and case law.",
+        "ttft": 0.849,
+        "tps": 44.25,
+        "total_latency": 2.092,
+        "tokens": 55,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only ment..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "What is the procedure for the impeachment of the President of India?",
+        "ttft": 0.673,
+        "tps": 44.25,
+        "total_latency": 1.983,
+        "tokens": 58,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only disc..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "Explain the 'Doctrine of Pleasure' and its limitations in Indian Civil Services.",
+        "ttft": 1.038,
+        "tps": 44.74,
+        "total_latency": 2.111,
+        "tokens": 48,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only disc..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "How is a Judge of the Supreme Court removed from office?",
+        "ttft": 0.559,
+        "tps": 45.63,
+        "total_latency": 1.392,
+        "tokens": 38,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only disc..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "What is the 'Special Leave Petition' under Article 136?",
+        "ttft": 0.613,
+        "tps": 45.12,
+        "total_latency": 1.744,
+        "tokens": 51,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only disc..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "Explain the role of the Attorney General of India under Article 76.",
+        "ttft": 0.746,
+        "tps": 44.99,
+        "total_latency": 1.725,
+        "tokens": 44,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only ment..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "What are the qualifications required to be elected as the Vice-President of India?",
+        "ttft": 0.619,
+        "tps": 45.08,
+        "total_latency": 2.039,
+        "tokens": 64,
+        "response_preview": "I do not have enough information in the provided context to answer this query. The context only disc..."
+    },
+    {
+        "model": "llama3.2",
+        "query": "Explain the concept of 'Joint Sitting' of both houses of Parliament.",
+        "ttft": 0.694,
+        "tps": 44.17,
+        "total_latency": 4.429,
+        "tokens": 165,
+        "response_preview": "A Joint Sitting of both Houses of Parliament refers to a meeting of both the Lok Sabha (Lower House)..."
+    },
+    {
+        "model": "mistral",
+        "query": "What are the specific grounds for reasonable restrictions on the Right to Freedom of Speech under Article 19(2)?",
+        "ttft": 6.098,
+        "tps": 21.82,
+        "total_latency": 18.658,
+        "tokens": 274,
+        "response_preview": " I do not have enough information in the provided context to answer this query specifically, as the ..."
+    },
+    {
+        "model": "mistral",
+        "query": "Explain the 'Procedure Established by Law' vs. 'Due Process of Law' as interpreted by the Supreme Court of India.",
+        "ttft": 1.997,
+        "tps": 22.04,
+        "total_latency": 7.215,
+        "tokens": 115,
+        "response_preview": " I do not have enough information in the provided context to explain the 'Procedure Established by L..."
+    },
+    {
+        "model": "mistral",
+        "query": "List the five types of writs that can be issued by the Supreme Court under Article 32.",
+        "ttft": 2.749,
+        "tps": 21.76,
+        "total_latency": 14.055,
+        "tokens": 246,
+        "response_preview": " I do not have enough information in the provided context to answer this query as it does not mentio..."
+    },
+    {
+        "model": "mistral",
+        "query": "What is the significance of the 42nd Amendment in relation to the Preamble?",
+        "ttft": 1.679,
+        "tps": 22.36,
+        "total_latency": 3.155,
+        "tokens": 33,
+        "response_preview": " I do not have enough information in the provided context to answer this query as there is no mentio..."
+    },
+    {
+        "model": "mistral",
+        "query": "Define 'State' as per Article 12 of the Indian Constitution.",
+        "ttft": 2.634,
+        "tps": 21.93,
+        "total_latency": 5.643,
+        "tokens": 66,
+        "response_preview": " I do not have enough information in the provided context to answer this query. The context does not..."
+    },
+    {
+        "model": "mistral",
+        "query": "What does Article 44 say regarding the Uniform Civil Code?",
+        "ttft": 0.49,
+        "tps": 22.66,
+        "total_latency": 2.741,
+        "tokens": 51,
+        "response_preview": " I do not have enough information in the provided context to answer this query. The context only dis..."
+    },
+    {
+        "model": "mistral",
+        "query": "Explain the Doctrine of Basic Structure established in the Kesavananda Bharati case.",
+        "ttft": 0.326,
+        "tps": 22.19,
+        "total_latency": 7.582,
+        "tokens": 161,
+        "response_preview": " I do not have enough information in the provided context to explain the Doctrine of Basic Structure..."
+    },
+    {
+        "model": "mistral",
+        "query": "Under what Article can the President of India declare a Financial Emergency?",
+        "ttft": 0.928,
+        "tps": 22.32,
+        "total_latency": 3.751,
+        "tokens": 63,
+        "response_preview": " I do not have enough information in the provided context to answer this query. The given context do..."
+    },
+    {
+        "model": "mistral",
+        "query": "What is the composition of the Finance Commission under Article 280?",
+        "ttft": 0.762,
+        "tps": 22.05,
+        "total_latency": 7.883,
+        "tokens": 157,
+        "response_preview": " I do not have enough information in the provided context to answer this query about the composition..."
+    },
+    {
+        "model": "mistral",
+        "query": "Explain the difference between Article 352 and Article 356.",
+        "ttft": 0.332,
+        "tps": 22.1,
+        "total_latency": 13.769,
+        "tokens": 297,
+        "response_preview": " I do not have enough information in the provided context to explain the difference between Article ..."
+    },
+    {
+        "model": "mistral",
+        "query": "A citizen is denied access to a public well based on their caste. Which Fundamental Right is violated?",
+        "ttft": 2.123,
+        "tps": 21.94,
+        "total_latency": 5.632,
+        "tokens": 77,
+        "response_preview": " I do not have enough information in the provided context to definitively answer this query. However..."
+    },
+    {
+        "model": "mistral",
+        "query": "A person is arrested and not produced before a magistrate within 24 hours. Analyze the legality under Article 22.",
+        "ttft": 1.822,
+        "tps": 21.95,
+        "total_latency": 9.932,
+        "tokens": 178,
+        "response_preview": " I do not have enough information in the provided context to answer this query about Article 22, as ..."
+    },
+    {
+        "model": "mistral",
+        "query": "If a state law conflicts with a central law on a subject in the Concurrent List, which one prevails?",
+        "ttft": 1.301,
+        "tps": 22.1,
+        "total_latency": 6.64,
+        "tokens": 118,
+        "response_preview": " According to the provided context (Article 254(2)), if a state law contains provisions repugnant to..."
+    },
+    {
+        "model": "mistral",
+        "query": "A student is forced to attend religious instruction in a government-aided school. Is this a violation of Article 28?",
+        "ttft": 2.211,
+        "tps": 21.87,
+        "total_latency": 15.244,
+        "tokens": 285,
+        "response_preview": " I do not have enough information in the provided context to definitively answer whether this is a v..."
+    },
+    {
+        "model": "mistral",
+        "query": "A journalist is arrested for criticizing a local politician's policy. Does this violate Article 19(1)(a)?",
+        "ttft": 2.435,
+        "tps": 21.69,
+        "total_latency": 11.01,
+        "tokens": 186,
+        "response_preview": " I do not have enough information in the provided context to answer this query directly. However, it..."
+    },
+    {
+        "model": "mistral",
+        "query": "An employee is fired from a government job without a fair hearing. Evaluate this against Article 311.",
+        "ttft": 1.894,
+        "tps": 21.89,
+        "total_latency": 7.877,
+        "tokens": 131,
+        "response_preview": " I do not have enough information in the provided context to answer this query about an employee bei..."
+    },
+    {
+        "model": "mistral",
+        "query": "Can the Governor of a state pardon a death sentence? Compare with the President's powers.",
+        "ttft": 1.581,
+        "tps": 21.83,
+        "total_latency": 16.009,
+        "tokens": 315,
+        "response_preview": " I do not have enough information in the provided context to answer this query directly about the po..."
+    },
+    {
+        "model": "mistral",
+        "query": "A person's property is taken by the government without compensation. Analyze this under Article 300A.",
+        "ttft": 1.54,
+        "tps": 22.08,
+        "total_latency": 9.192,
+        "tokens": 169,
+        "response_preview": " I do not have enough information in the provided context to definitively answer whether a situation..."
+    },
+    {
+        "model": "mistral",
+        "query": "A minority community wants to establish an educational institution. Which Article protects this right?",
+        "ttft": 1.218,
+        "tps": 22.4,
+        "total_latency": 3.138,
+        "tokens": 43,
+        "response_preview": " I do not have enough information in the provided context to answer this query about a minority comm..."
+    },
+    {
+        "model": "mistral",
+        "query": "Is the 'Right to Privacy' a fundamental right? Cite the relevant article and case law.",
+        "ttft": 2.415,
+        "tps": 22.12,
+        "total_latency": 6.619,
+        "tokens": 93,
+        "response_preview": " I do not have enough information in the provided context to answer this query about the 'Right to P..."
+    },
+    {
+        "model": "mistral",
+        "query": "What is the procedure for the impeachment of the President of India?",
+        "ttft": 1.819,
+        "tps": 22.22,
+        "total_latency": 6.004,
+        "tokens": 93,
+        "response_preview": " I do not have enough information in the provided context to answer this query about the procedure f..."
+    },
+    {
+        "model": "mistral",
+        "query": "Explain the 'Doctrine of Pleasure' and its limitations in Indian Civil Services.",
+        "ttft": 2.902,
+        "tps": 22.06,
+        "total_latency": 7.663,
+        "tokens": 105,
+        "response_preview": " I do not have enough information in the provided context to explain the 'Doctrine of Pleasure' and ..."
+    },
+    {
+        "model": "mistral",
+        "query": "How is a Judge of the Supreme Court removed from office?",
+        "ttft": 1.366,
+        "tps": 22.31,
+        "total_latency": 5.803,
+        "tokens": 99,
+        "response_preview": " I do not have enough information in the provided context to answer this query specifically. The Ind..."
+    },
+    {
+        "model": "mistral",
+        "query": "What is the 'Special Leave Petition' under Article 136?",
+        "ttft": 1.509,
+        "tps": 22.22,
+        "total_latency": 6.819,
+        "tokens": 118,
+        "response_preview": " I do not have enough information in the provided context to answer this query as there is no mentio..."
+    },
+    {
+        "model": "mistral",
+        "query": "Explain the role of the Attorney General of India under Article 76.",
+        "ttft": 1.968,
+        "tps": 21.9,
+        "total_latency": 11.145,
+        "tokens": 201,
+        "response_preview": " I do not have enough information in the provided context to answer this query as there is no mentio..."
+    },
+    {
+        "model": "mistral",
+        "query": "What are the qualifications required to be elected as the Vice-President of India?",
+        "ttft": 1.361,
+        "tps": 21.72,
+        "total_latency": 8.405,
+        "tokens": 153,
+        "response_preview": " I do not have enough information in the provided context to answer this query. The context only dis..."
+    },
+    {
+        "model": "mistral",
+        "query": "Explain the concept of 'Joint Sitting' of both houses of Parliament.",
+        "ttft": 1.517,
+        "tps": 21.82,
+        "total_latency": 16.322,
+        "tokens": 323,
+        "response_preview": " The provided context does not explicitly define the concept of 'Joint Sitting' of both houses of Pa..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "What are the specific grounds for reasonable restrictions on the Right to Freedom of Speech under Article 19(2)?",
+        "ttft": 2.558,
+        "tps": 56.2,
+        "total_latency": 2.879,
+        "tokens": 18,
+        "response_preview": "\n I do not have enough information in the provided context to answer this query.' ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "Explain the 'Procedure Established by Law' vs. 'Due Process of Law' as interpreted by the Supreme Court of India.",
+        "ttft": 0.669,
+        "tps": 56.89,
+        "total_latency": 7.102,
+        "tokens": 366,
+        "response_preview": "\n The context provided does not contain a specific query to answer regarding \"the procedure establis..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "List the five types of writs that can be issued by the Supreme Court under Article 32.",
+        "ttft": 0.883,
+        "tps": 57.61,
+        "total_latency": 1.803,
+        "tokens": 53,
+        "response_preview": "\n The provided context does not contain enough information to answer this query, as it is a question..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "What is the significance of the 42nd Amendment in relation to the Preamble?",
+        "ttft": 0.57,
+        "tps": 56.77,
+        "total_latency": 1.521,
+        "tokens": 54,
+        "response_preview": "\n The answer would be \"The Forty-second (Amendment) Act, 1978 inserted clause (5), which provides th..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "Define 'State' as per Article 12 of the Indian Constitution.",
+        "ttft": 0.933,
+        "tps": 55.35,
+        "total_latency": 2.595,
+        "tokens": 92,
+        "response_preview": "\n The State is a political entity that has its own constitution or legislature within India. It can ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "What does Article 44 say regarding the Uniform Civil Code?",
+        "ttft": 0.22,
+        "tps": 57.85,
+        "total_latency": 0.531,
+        "tokens": 18,
+        "response_preview": "\n I do not have enough information in the provided context to answer this query.' ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "Explain the Doctrine of Basic Structure established in the Kesavananda Bharati case.",
+        "ttft": 0.127,
+        "tps": 58.63,
+        "total_latency": 2.259,
+        "tokens": 125,
+        "response_preview": "\n The doctrine of basic structure was established in the Keshava Nandam Bharati case, which is a lan..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "Under what Article can the President of India declare a Financial Emergency?",
+        "ttft": 0.319,
+        "tps": 58.26,
+        "total_latency": 0.628,
+        "tokens": 18,
+        "response_preview": "\n I do not have enough information in the provided context to answer this query. ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "What is the composition of the Finance Commission under Article 280?",
+        "ttft": 0.268,
+        "tps": 58.72,
+        "total_latency": 0.575,
+        "tokens": 18,
+        "response_preview": "\n I do not have enough information in the provided context to answer this query. ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "Explain the difference between Article 352 and Article 356.",
+        "ttft": 0.129,
+        "tps": 58.95,
+        "total_latency": 1.554,
+        "tokens": 84,
+        "response_preview": "\n Answer: The provisions of Article 352, which is an original enactment or a provision in this Const..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "A citizen is denied access to a public well based on their caste. Which Fundamental Right is violated?",
+        "ttft": 0.714,
+        "tps": 58.4,
+        "total_latency": 1.536,
+        "tokens": 48,
+        "response_preview": "\n The fundamental right that would be violated is Article 25, which guarantees the freedom of consci..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "A person is arrested and not produced before a magistrate within 24 hours. Analyze the legality under Article 22.",
+        "ttft": 0.618,
+        "tps": 58.02,
+        "total_latency": 3.203,
+        "tokens": 150,
+        "response_preview": "\n Answer: No process for arrest of President (3) cannot be issued from any court during his term of ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "If a state law conflicts with a central law on a subject in the Concurrent List, which one prevails?",
+        "ttft": 0.464,
+        "tps": 58.53,
+        "total_latency": 0.772,
+        "tokens": 18,
+        "response_preview": "\n I do not have enough information in the provided context to answer this query. ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "A student is forced to attend religious instruction in a government-aided school. Is this a violation of Article 28?",
+        "ttft": 0.716,
+        "tps": 58.6,
+        "total_latency": 0.835,
+        "tokens": 7,
+        "response_preview": "\n Answer: No ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "A journalist is arrested for criticizing a local politician's policy. Does this violate Article 19(1)(a)?",
+        "ttft": 0.776,
+        "tps": 57.27,
+        "total_latency": 2.871,
+        "tokens": 120,
+        "response_preview": "\n No, the arrest does not directly contradict Articles 19 or any other provisions of the Indian Cons..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "An employee is fired from a government job without a fair hearing. Evaluate this against Article 311.",
+        "ttft": 0.618,
+        "tps": 58.01,
+        "total_latency": 1.015,
+        "tokens": 23,
+        "response_preview": "\n Answer: No, I do not have enough information in the provided context to answer this query. ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "Can the Governor of a state pardon a death sentence? Compare with the President's powers.",
+        "ttft": 0.52,
+        "tps": 57.84,
+        "total_latency": 0.831,
+        "tokens": 18,
+        "response_preview": "\n I do not have enough information in the provided context to answer this query. ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "A person's property is taken by the government without compensation. Analyze this under Article 300A.",
+        "ttft": 0.516,
+        "tps": 58.72,
+        "total_latency": 0.823,
+        "tokens": 18,
+        "response_preview": "\n I do not have enough information in the provided context to answer this query. ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "A minority community wants to establish an educational institution. Which Article protects this right?",
+        "ttft": 0.425,
+        "tps": 57.92,
+        "total_latency": 0.736,
+        "tokens": 18,
+        "response_preview": "\n I do not have enough information in the provided context to answer this query. ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "Is the 'Right to Privacy' a fundamental right? Cite the relevant article and case law.",
+        "ttft": 0.823,
+        "tps": 56.78,
+        "total_latency": 2.267,
+        "tokens": 82,
+        "response_preview": "\n No, \"the Right to Privacy\" is not mentioned in Article or Section number within context provided b..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "What is the procedure for the impeachment of the President of India?",
+        "ttft": 0.662,
+        "tps": 58.68,
+        "total_latency": 2.11,
+        "tokens": 85,
+        "response_preview": "\n The answer to this query would be \"The process outlined in Article 61, which states that a motion ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "Explain the 'Doctrine of Pleasure' and its limitations in Indian Civil Services.",
+        "ttft": 0.978,
+        "tps": 57.71,
+        "total_latency": 2.313,
+        "tokens": 77,
+        "response_preview": "\n The context provided does not contain enough information to answer this query based on only those ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "How is a Judge of the Supreme Court removed from office?",
+        "ttft": 0.508,
+        "tps": 57.43,
+        "total_latency": 1.535,
+        "tokens": 59,
+        "response_preview": "\n The answer to this query would be \"The judge who has been so designated, in priority to other duti..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "What is the 'Special Leave Petition' under Article 136?",
+        "ttft": 0.563,
+        "tps": 58.49,
+        "total_latency": 0.871,
+        "tokens": 18,
+        "response_preview": "\n I do not have enough information in the provided context to answer this query.' ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "Explain the role of the Attorney General of India under Article 76.",
+        "ttft": 0.719,
+        "tps": 58.5,
+        "total_latency": 2.702,
+        "tokens": 116,
+        "response_preview": "\n The answer is \"The Role and Duties of the Attorney General\". According to Article 76, Section 3 (P..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "What are the qualifications required to be elected as the Vice-President of India?",
+        "ttft": 0.51,
+        "tps": 58.43,
+        "total_latency": 0.818,
+        "tokens": 18,
+        "response_preview": "\n I do not have enough information in the provided context to answer this query. ..."
+    },
+    {
+        "model": "mashriram/sarvam-1",
+        "query": "Explain the concept of 'Joint Sitting' of both houses of Parliament.",
+        "ttft": 0.57,
+        "tps": 58.56,
+        "total_latency": 1.594,
+        "tokens": 60,
+        "response_preview": "\n The context provided does not mention anything about \"joint sitting\" or its significance in Indian..."
+    }
+]

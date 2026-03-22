@@ -1,0 +1,39 @@
+# --- General ---
+.DS_Store
+*.pem
+.env
+.env*.local
+.vercel
+
+# --- Frontend (Next.js/Node) ---
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.pnp
+frontend/.pnp.js
+frontend/.pnp.js
+frontend/.yarn/install-state.gz
+frontend/coverage/
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
+
+# --- Backend (Python) ---
+__pycache__/
+*.py[oc]
+backend/__pycache__/
+backend/build/
+backend/dist/
+backend/wheels/
+backend/*.egg-info
+.venv/
+backend/.venv/
+
+# --- Data/Database ---
+data/chroma_db/
+*.db
+*.sqlite3
